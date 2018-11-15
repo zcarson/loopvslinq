@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopVsLinq", "LoopVsLinq\LoopVsLinq.csproj", "{55D17387-6527-4ACE-8208-52E0FC3BF321}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessObjects", "BusinessObjects\BusinessObjects.csproj", "{0FC03EB6-1AAD-4B53-A8AB-7CE1BBB7D123}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{55D17387-6527-4ACE-8208-52E0FC3BF321}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55D17387-6527-4ACE-8208-52E0FC3BF321}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55D17387-6527-4ACE-8208-52E0FC3BF321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC03EB6-1AAD-4B53-A8AB-7CE1BBB7D123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC03EB6-1AAD-4B53-A8AB-7CE1BBB7D123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC03EB6-1AAD-4B53-A8AB-7CE1BBB7D123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC03EB6-1AAD-4B53-A8AB-7CE1BBB7D123}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
